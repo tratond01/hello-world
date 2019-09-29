@@ -1,7 +1,6 @@
 # hello-world
-This is random
+This is a practice on GitHub
 
-Hola,
+Hi,
 
-  Mein Name ist tratond01, and I'd rather be in Germany right now.
-Takk.
+  I'm studying in Berlin and practicing using Git.
